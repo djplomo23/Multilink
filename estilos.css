@@ -110,6 +110,10 @@ footer>a{
     h1{
         padding: 50px 0 50px;
     }
+    img{
+        padding-top: 50px
+    }
+        
 }
 
 @media screen and (max-width: 350px){
@@ -123,5 +127,8 @@ footer>a{
         width: 50px;
         height: 50px;
         
+    }
+    img{
+        padding-top: 50px
     }
 }
